@@ -1,4 +1,4 @@
 <?php
- echo "Hello World! served by pod: " . $_SERVER['SERVER_ADDR'] . " v5"; 
+ echo "Hello World! served by pod: " . $_SERVER['SERVER_ADDR'] . " v6"; 
 ?>
 
